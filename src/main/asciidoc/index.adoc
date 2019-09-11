@@ -20,3 +20,15 @@ include::{snippets}/sample/http-request.adoc[]
 And one showing the HTTP response:
 
 include::{snippets}/sample/http-response.adoc[]
+
+One showing how to make a request using cURL:
+
+include::{snippets}/todos/curl-request.adoc[]
+
+One showing the HTTP request:
+
+include::{snippets}/todos/http-request.adoc[]
+
+And one showing the HTTP response:
+
+include::{snippets}/todos/http-response.adoc[]
